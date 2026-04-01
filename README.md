@@ -1,5 +1,5 @@
 # ball-sim
-# A simulation of balls ricocheting under various parameters
+## A simulation of balls ricocheting under various parameters
 
 This program is a ball simulation. The initial goal was mess around with billiard dynamics, letting balls ricochet around in a fashion consistent with conservation of energy. I had long been interested in creating something like this, but finally found the opportunity to create it for an open ended class project during undergrad.
 
